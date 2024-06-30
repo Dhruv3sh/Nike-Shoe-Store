@@ -37,8 +37,8 @@ These instructions will help you set up a local development environment and get 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/vivek-chaprana/shoe-store.git
-cd shoe-store-ecommerce
+git clone https://github.com/Dhruv.3sh/NIke-shoe-store.git
+cd shoe-store
 ```
 2. Install dependencies:
 ```bash
